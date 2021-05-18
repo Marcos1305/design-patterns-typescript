@@ -1,3 +1,1 @@
-"use strict";
-
-console.log("oi");
+'use strict';
